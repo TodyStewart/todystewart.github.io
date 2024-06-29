@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+This is the home page of TodyStewart's personal blog. He has no time to edit it, so it looks like default.
+
+I'll be back and have an update when I'm free.
 
 You can use the [editor on GitHub](https://github.com/TodyStewart/todystewart.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
